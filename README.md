@@ -1,5 +1,5 @@
 # tictactoe
-https://bprabin811.github.io/tictactoe
+[PLAY](https://bprabin811.github.io/tictactoe)
 
 ## Getting Started
 
